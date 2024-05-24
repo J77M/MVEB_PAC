@@ -1,0 +1,49 @@
+LeftIndex,RightIndex,Label,Lobe,FullName,BrodmanArea
+1,101,VCcm,Occipital,Caudal Medial Visual Cortex,17/18
+2,102,VCl,Occipital,Lateral Visual Cortex,37/19/18
+3,103,VCs,Occipital,Superior Visual Cortex,19/39
+4,104,Cu,Occipital,Cuneus,18/19
+5,105,VCrm,Occipital,Rostral Medial Visual Cortex,18/19
+6,106,ITCm,Temporal,Medial Inferior Temporal Cortex,36/37/20
+7,107,ITCr,Temporal,Rostral Inferior Temporal Cortex,20
+8,108,MTCc,Temporal,Caudal Middle Temporal Cortex,21/22/39
+9,109,STCc,Temporal,Caudal Superior Temporal Cortex,22/41/42
+10,110,STCr,Temporal,Rostral Superior Temporal Cortex,21/22/38
+11,111,MTCr,Temporal,Rostral Middle Temporal Cortex,20/21/38
+13,113,IPCv,Parietal,Ventral Inferior Parietal Cortex,40
+14,114,IPCd,Parietal,Dorsal Inferior Parietal Cortex,39/40/7
+15,115,SPC,Parietal,Superior Parietal Cortex,7
+16,116,SPCm,Parietal,Medial Superior Parietal Cortex,7
+17,117,PCm,Parietal,Medial Parietal Cortex,31
+19,119,Sv,Parietal,Ventral Somatosensory Cortex,1/2/3
+20,120,Sdl,Parietal,Dorsolateral Somatosensory Cortex,1/2/3
+21,121,Sdm,Parietal,Dorsomedial Somatosensory Cortex,1/2/3/5/31
+12,112,ICC,Cingular,Isthmus Cingulate Cortex,30
+18,118,PCC,Cingular,Posterior Cingulate Cortex,23
+30,130,MCC,Cingular,Mid Cingulate Cortex,24
+40,140,ACC,Cingular,Anterior Cingulate Cortex,24/32
+22,122,Mv,Frontal,Ventral Motor Cortex,4/6
+23,123,Mdl,Frontal,Dorsolateral Motor Cortex,4
+24,124,Mdm,Frontal,Dorsomedial Motor Cortex,4
+25,125,PMrv,Frontal,Rostral Ventral Premotor Cortex,44/45
+26,126,PMdl,Frontal,Dorsolateral Premotor Cortex,6/8
+27,127,PMdm,Frontal,Dorsomedial Premotor Cortex,6
+28,128,PFcdl,Frontal,Caudal Dorsolateral Prefrontal Cortex,45/46/9
+29,129,PFcdm,Frontal,Caudal Dorsomedial Prefrontal Cortex,6/8
+31,131,PFrvl,Frontal,Rostral Ventrolateral Prefrontal Cortex,47/45
+32,132,Pfrdli,Frontal,Rostral Dorsolateral Inferior Prefrontal Cortex,10/46
+33,133,Pfrdls,Frontal,Rostral Dorsolateral Superior Prefrontal Cortex,10/9
+34,134,PFrd,Frontal,Rostral Dorsal Prefrontal Cortex,10/9/8
+35,135,PFrm,Frontal,Rostral Medial Prefrontal Cortex,9/8
+36,136,OFCvl,Orbito-Frontal,Ventrolateral Orbito Frontal Cortex,11/47
+37,137,OFCv,Orbito-Frontal,Ventral Orbito Frontal Cortex,11/47
+38,138,OFCvm,Orbito-Frontal,Ventromedial Orbito Frontal Cortex,10/11
+39,139,PFCvm,Orbito-Frontal,Ventromedial Prefrontal Cortex,32/10/11
+41,141,Insula,Insula,Insular Cortex,13
+210,249,Thalamus,Subcortical,Thalamus,None
+211,250,Caudate,Subcortical,Caudate,None
+212,251,Puttamen,Subcortical,Puttamen,None
+213,252,Pallidum,Subcortical,Pallidum,None
+217,253,Hippocampus,Subcortical,Hippocampus,None
+218,254,Amygdala,Subcortical,Amygdala,None
+226,258,Accumbens,Subcortical,Accumbens,None
